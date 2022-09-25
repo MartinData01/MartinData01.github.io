@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>柴犬的超完整介紹</title>
+    <link>https://MartinData01.github.io/</link>
+    <description>Recent content on 柴犬的超完整介紹</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 24 Sep 2022 21:00:00 +0800</lastBuildDate><atom:link href="https://MartinData01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿柴的第一篇文章</title>
+      <link>https://MartinData01.github.io/blog/test/</link>
+      <pubDate>Sat, 24 Sep 2022 21:00:00 +0800</pubDate>
+      
+      <guid>https://MartinData01.github.io/blog/test/</guid>
+      <description>Hello World
+我是阿柴~
+一級標題 二級標題 六級標題 我是阿柴，我很可愛
+我是柴犬 可愛 帥 毛澎 黑柴 白柴 烤得剛好柴 How today 這是一段很有名的話</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://MartinData01.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://MartinData01.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>

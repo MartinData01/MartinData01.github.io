@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on 柴犬的超完整介紹</title>
+    <link>https://MartinData01.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on 柴犬的超完整介紹</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 24 Sep 2022 21:00:00 +0800</lastBuildDate><atom:link href="https://MartinData01.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿柴的第一篇文章</title>
+      <link>https://MartinData01.github.io/blog/test/</link>
+      <pubDate>Sat, 24 Sep 2022 21:00:00 +0800</pubDate>
+      
+      <guid>https://MartinData01.github.io/blog/test/</guid>
+      <description>Hello World
+我是阿柴~
+一級標題 二級標題 六級標題 我是阿柴，我很可愛
+我是柴犬 可愛 帥 毛澎 黑柴 白柴 烤得剛好柴 How today 這是一段很有名的話</description>
+    </item>
+    
+  </channel>
+</rss>
